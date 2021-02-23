@@ -9,7 +9,7 @@ Research Paper: https://arxiv.org/abs/2010.11692
 
 Mentors: Dr. Michelle Zhu (Montclair State University) and Dr. Tianyang Wang (Austin Peay State University)
 
-I worked to develop deep learning classifiers to detect diabetic retinopathy in retinal images. I worked on binary and multi-class classification and implemented transfer learning and various image preprocessing algorithms.
+I worked to develop deep learning classifiers to detect diabetic retinopathy in retinal images. I worked on binary and multi-class classification and implemented transfer learning and various image preprocessing algorithms. My models acheived benchmark results, comparable to the performance of human ophthalmologists.
 
 # Leadership and Organizations
 
