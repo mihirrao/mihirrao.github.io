@@ -5,7 +5,7 @@ Hi! My name is Mihir Rao and I am a junior at Chatham High School located in Cha
 
 ## Medical Diagnosis with Deep Learning
 ### Conversion and Implementation of State-of-the-Art Deep Learning Algorithms for the Classification of Diabetic Retinopathy in Retinal Images
-Research Paper: https://arxiv.org/abs/2010.11692
+[Research Paper](https://arxiv.org/abs/2010.11692)
 
 Mentors: Dr. Michelle Zhu (Montclair State University) and Dr. Tianyang Wang (Austin Peay State University)
 
