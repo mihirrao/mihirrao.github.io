@@ -14,6 +14,6 @@ I worked to develop deep learning classifiers to detect diabetic retinopathy in 
 # Leadership and Organizations
 
 # Here are some cool pictures!
-
+![Eagle Scout Event](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpatch.com%2Fnew-jersey%2Fchatham%2Ffive-eagle-scouts-troop-121-2019&psig=AOvVaw1AzWLlXIxKtQYbHvvno5LO&ust=1614187520681000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjvsaLDgO8CFQAAAAAdAAAAABAD)
 # Contact
 Email: mihirraov@gmail.com | mihirrao@chatham-nj.org
