@@ -11,7 +11,18 @@ Mentors: Dr. Michelle Zhu (Montclair State University) and Dr. Tianyang Wang (Au
 
 I worked to develop deep learning classifiers to detect diabetic retinopathy in retinal images. I worked on binary and multi-class classification and implemented transfer learning and various image preprocessing algorithms. My models acheived benchmark results, comparable to the performance of human ophthalmologists.
 
+**Recognition:** Presented at NJRSF and the Rutgers JSHS. Won the Air Force Award at NJRSF.
+
+## Bioinformatics and Nucleic Acid Research
+### BLEPNet: In-Silico B-Cell Epitope Prediction Using Deep Learning
+**Status: In-progress**
+
 # Leadership and Organizations
+## Coding Cougars
+### Founder and President
+
+## Eagle Scout - Boy Scouts of America
+### Troop 121 - Chatham , NJ
 
 # Here are some cool pictures!
 ![Eagle Scout Event](https://github.com/mihirrao/mihirrao.github.io/blob/main/eagle_scout.jpg)
