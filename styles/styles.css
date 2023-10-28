@@ -1,19 +1,19 @@
 body {
     padding: 5vh 15vw 5vh 3vw;
-    background-color: rgb(156, 53, 53);
+    background-color: whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1 {
-    font-size: 25px;
+    font-size: 30px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 div {
